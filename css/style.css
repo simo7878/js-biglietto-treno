@@ -1,0 +1,17 @@
+body {
+  background-color: gray;
+}
+
+.section_tkt {
+  width: 50%;
+  height: 70%;
+  background-color: green;
+}
+
+#h2 {
+  color: gray;
+}
+
+#h3 {
+  color: gray;
+}
